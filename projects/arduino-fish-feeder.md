@@ -13,7 +13,7 @@ summary: "I am currently developing an automated fish feeder using an arduino bo
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/fish-feeder.png" class="img-thumbnail" >
+  <video width="200px" src="../img/micromouse/fish-feeder.png" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/IMG_4867.mov" class="img-thumbnail" >
 </div>
 
