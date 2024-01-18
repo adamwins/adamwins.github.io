@@ -13,7 +13,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-##JavaScript Gymnastics:
+## JavaScript Gymnastics:
 
 In my experience with JavaScript, the syntax and flexibility are much friendlier for beginners like myself. Although I have prior experience with coding, I think I could do a lot to improve, and I am constantly looking to enhance my coding ability. I appreciate how simple the JavaScript syntax is, especially compared to a language like Java. This flexibility is also what makes JavaScript such a good language for software engineering. JavaScript also has many different frameworks like Node, React, Meteor, and many more. These frameworks help with full-stack development and contribute to why JavaScript is such a popular language among software developers.
 
