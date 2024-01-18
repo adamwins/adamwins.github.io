@@ -13,8 +13,8 @@ summary: "I am currently developing an automated fish feeder using an arduino bo
 ---
 
 <div class="text-center p-4">
-  <video width="200px" src="../img/micromouse/fish-feeder.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/IMG_4867.mov" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/fish-feeder.png" class="img-thumbnail" >
+  <video width="200px" src="../img/micromouse/IMG_4867.mov" class="img-thumbnail" >
 </div>
 
 For this project, I wanted to practice my programming and engineering skills so I decided to automate feeding my fish out of convenience. Using an arduino board, jumper wires, and a servo motor, I am able to automate the fish food being dropped into my fish tank. I am still currently developing the shell to hold the board, but I have already completed the code for the board
