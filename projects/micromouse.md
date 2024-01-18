@@ -23,15 +23,25 @@ For this project, I wanted to practice my programming and engineering skills so 
 Here is some code that illustrates how the arduino is automated:
 
 ```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
+void loop() 
+{ 
+  now = millis();
+  endtime = now + FISHFEEDER;
+  while(now < endtime) {
+   myServo.write(0);
+   delay(1);
+   now = millis();   
+  }
+  
+  for(pos = 0; pos < 30; pos += 1)  // goes from 0 degrees to 15 degrees 
+  {                                  // in steps of 1 degree 
+    myServo.write(pos);              // tell servo to go to position in variable 'pos' 
+    delay(10);                       // waits 10ms for the servo to reach the position 
+  } 
+  for(pos = 30; pos>=1; pos-=1)     // goes from 15 degrees to 0 degrees 
+  {                                
+    myServo.write(pos);              // tell servo to go to position in variable 'pos' 
+    delay(10);                       // waits 10ms for the servo to reach the position 
+  } 
 }
 ```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
