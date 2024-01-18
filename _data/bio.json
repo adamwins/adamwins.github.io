@@ -15,17 +15,16 @@
   },
   "interests": [
     { "name": "Cybersecurity" },
-    { "name": "Software Engineering" },
-    { "name": "Quantum Computing" }
+    { "name": "Software Engineering" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Languages",
+      "keywords": [ "Python", "Java", "Javascript", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Kali Linux", "Git/GitHub", "TI LaunchPad" ]
     }
   ],
   "education": [
@@ -33,7 +32,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Fall,2025)",
       "studyType": "B.S.",
-      "startDate": "2020-09-01",
+      "startDate": "2020-08-24",
       "endDate": "Present",
       "courses": [
       ]
@@ -41,27 +40,15 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "The Home Depot",
+      "position": "Deliveries Associate",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-05-21",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Get customers online orders ready for pickup",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Provide excellent customer service and get customers their items in a timely manner",
+        "Work closely with the service desk to bring out customers online orders"
       ]
     }
   ],
