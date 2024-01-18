@@ -11,7 +11,7 @@ labels:
   - Java
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/programmerhumor-io-java-memes-javascript-memes-3674863255f5c12.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/difficulty/programmerhumor-io-java-memes-javascript-memes-3674863255f5c12.png">
 
 ## JavaScript Gymnastics:
 
