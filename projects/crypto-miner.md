@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+title: "Crypto Currency Miner"
+date: 2023
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - RaspbianOS
+  - Raspberry Pi
+  - Command Line
+  - Crypto currency
+summary: "A simple cryptocurrency miner I set up using a raspberry pi and the raspbian 64 bit OS"
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
