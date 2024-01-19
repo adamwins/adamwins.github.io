@@ -23,3 +23,4 @@ Day by day, I am constantly learning and trying to improve my skills related to 
 
 Although I am uncertain about the path software engineering will lead me down, I know for a fact that it will be rewarding. I believe that finally finding that semicolon I forgot, and finally getting my program to run the way I want is one of the best feelings ever. I love the fact that when you program, anything is possible and there is so much flexibility in the way you can achieve a desired result. While I may not consider myself a creative person, programming often enables me to think outside the box and approach problems from a unique perspective. Software engineering is not easy, but it is the moment of finally getting your code to compile the way you want it to that makes it worth the effort.
 
+Note- ChatGpt was used to correct any grammar and punctuation mistakes
