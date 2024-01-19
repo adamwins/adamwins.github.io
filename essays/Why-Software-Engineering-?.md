@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "I]"
 # All dates must be YYYY-MM-DD format!
 date: 2024-1-18
 published: true
