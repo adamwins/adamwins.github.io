@@ -18,6 +18,8 @@ summary: "I am currently developing an automated fish feeder using an arduino bo
 
 For this project, I wanted to practice my programming and engineering skills so I decided to automate feeding my fish out of convenience. Using an arduino board, jumper wires, and a servo motor, I am able to automate the fish food being dropped into my fish tank. I am still currently developing the shell to hold the board, but I have already completed the code for the board
 
+This is my first experience with an arduino board so I got to learn a little bit of C++, since the arduino IDE uses a derivative of C++. I have also never been exposed to electronics so it is the first time I have used jumper wires and I needed a basic understanding of how circuits work. I have yet to design the hardware for housing the board, but that would also be a first for me as I need to use some critical thinking and engineering to accomplish the goal of my arduino.
+
 Here is some code that illustrates how the arduino is automated:
 
 ```cpp
