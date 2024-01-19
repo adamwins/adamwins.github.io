@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/IMG_5442.jpg
+image: img/vacay/IMG_5442.png
 title: "Crypto Currency Miner"
 date: 2023
 published: true
