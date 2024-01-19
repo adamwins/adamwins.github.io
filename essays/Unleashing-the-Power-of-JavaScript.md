@@ -25,3 +25,4 @@ Throughout my time in college, all of my programming classes have been focused o
 ## Programming, it's a marathon, not a race:
 One thing we have all learned from Aesop’s “The Tortoise and the Hare” is that slow and steady wins the race. I think this idea can be applied to many things, programming being one of them. Through consistent programming, you will eventually be ready for something like a hackathon. If we compare programming to running a marathon, marathons take months, maybe even years, to prepare for. The same can be said about programming, and if it works for marathons, why wouldn’t it work for programming? I believe in the approach that if every day you improve, even if just a little, given some time you will be significantly better than when you first started. So let’s all set our eyes on the hackathon and start prepping now for the marathon we know we will run.
 
+Note- ChatGpt was used to correct any grammar and punctuation mistakes
