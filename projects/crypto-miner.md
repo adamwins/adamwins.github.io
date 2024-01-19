@@ -13,16 +13,11 @@ labels:
 summary: "A simple cryptocurrency miner I set up using a raspberry pi and the raspbian 64 bit OS"
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+Although I think I am a bit late to the cryptocurrency craze, I wanted to practice using the command line and set up a raspberry pi to mine the cryptocurrency monero. Although a raspberry pi is not a powerful machine, I was able to generate a hashrate of 108 hashes a second through mining in a shared pool. Though it is definitely not mining at a fast enough rate to make some actual money, it was still a fun project and I learned a lot about the blockchain and why cryptocurrency is so cool. Through the open source software XMrig, I was able to clone the repository, and contribute the computing power of my raspberry pi to my selected shared pool.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+I chose to mine monero because compared to a cryptocurrency like bitcoin, monero is more decentralized and it would be easier for me to earn a more fair share of XMR for my hashing contribution. If I chose to mine a more popular cryptocurrency like bitcoin, or etherium, I would need to compete against people who have warehouses full of computers mining. The chance that I would add a block to the blockchain would be the same as winning the lottery.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Although I currently do not have this raspberry pi still running, I learned a lot through this project and hope to repurpose this raspberry pi by creating a kubernetes cluster of multiple raspberry pi's.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+Source: <a href="https://github.com/xmrig/xmrig/"> </a>
