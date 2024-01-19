@@ -20,4 +20,5 @@ I chose to mine monero because compared to a cryptocurrency like bitcoin, monero
 Although I currently do not have this raspberry pi still running, I learned a lot through this project and hope to repurpose this raspberry pi by creating a kubernetes cluster of multiple raspberry pi's.
 
  
-Source: <a href="https://github.com/xmrig/xmrig/"> </a>
+Source: <a href="https://github.com/xmrig/xmrig/">https://github.com/xmrig/xmrig/</a>
+
