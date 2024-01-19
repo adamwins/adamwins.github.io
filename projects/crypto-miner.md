@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/code.gif
+image: img/vacay/dribble-code.gif
 title: "Cryptocurrency Miner"
 date: 2023
 published: true
