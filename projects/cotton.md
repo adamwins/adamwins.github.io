@@ -1,14 +1,15 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+image: img/cotton/clock.gif
+title: "Clock Project"
+date: 2019
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - CSS
+  - HTML
+  - JavaScript
+summary: "A simple clock I developed using HTML, CSS, and JavaScript"
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
