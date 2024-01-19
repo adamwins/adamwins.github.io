@@ -9,8 +9,6 @@ labels:
   - Software Engineering
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
-
 ## Certainty in Uncertainty:
 
 At some point in our lives, we have all been uncertain about something. Whether it be about what major to pursue, what job to apply for, or even something as simple as - what should I eat today? We’ve all been there. For me, I am uncertain about my future in software engineering. I do not have any specific goals for where I would like to work after I graduate. However, since I also have a passion for cybersecurity, I would love to work in a career that combines both cybersecurity and software engineering.
