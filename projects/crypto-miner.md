@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: img/vacay/monero-4.png
-title: "Crypto Currency Miner"
+title: "Cryptocurrency Miner"
 date: 2023
 published: true
 labels:
   - RaspbianOS
   - Raspberry Pi
   - Command Line
-  - Crypto currency
+  - Cryptocurrency
 summary: "A simple cryptocurrency miner I set up using a raspberry pi and the raspbian 64 bit OS"
 ---
 
