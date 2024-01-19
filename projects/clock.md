@@ -19,5 +19,5 @@ Back in high school, in order to practice my CSS, HTML, and Javascript, I develo
 Here is some code that showcases the functionality of the clock: 
 
 
-
+```
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
