@@ -7,7 +7,7 @@
     "phone": "808-518-0990",
     "website": "https://adamwins.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
-    "location": { "address": "94-107 Kauweke Pl.", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "adamwins", "url": "http://github.com/adamwins" },
       { "network": "linkedin", "username": "adam-winfield-smith-a63435297", "url": "http://linkedin.com/in/adam-winfield-smith-a63435297" }
