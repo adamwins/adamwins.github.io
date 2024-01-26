@@ -34,3 +34,4 @@ Note: ChatGPT was used to check for punctuality and grammar mistakes
 You can find the Smart question [here:](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
 ---
 You can find the "Dumb" question [here:](https://stackoverflow.com/questions/28519589/looking-for-a-java-web-compiler-that-supports-realtime-input-without-needing-a-s)
+---
