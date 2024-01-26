@@ -1,3 +1,19 @@
+---
+layout: essay
+type: essay
+title: "Smart Questions for Smart People"
+# All dates must be YYYY-MM-DD format!
+date: 2024-01-25
+published: true
+labels:
+  - Social Engineering
+---
+
+
+
+
+
+
 ## What Even is a Smart Question? 
 
 I am sure you are probably wondering the same thing because that is the first question that came to my mind when writing this essay. Well, a smart question, in regards to software engineering is a question that requires you to put in some extra effort before asking anyone else. Typically, this extra effort requires you to consult other sources first, and do prior research about things related to your question. On a site like StackOverflow, which is meant for technical questions, asking a “dumb” question results in your question being overlooked and not taken seriously. 
