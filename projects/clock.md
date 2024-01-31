@@ -14,6 +14,8 @@ summary: "A simple clock I developed using HTML, CSS, and JavaScript"
 
 Back in high school, in order to practice my CSS, HTML, and Javascript, I developed a clock that updates in real time with the press of a button. Through this project, I was able to learn about JavaScript functions, as well as the basics of JavaScript since most of the clock functionality is dependent on the JavaScript code. At the time, all of this was very new to me so although it is not much now, it was a huge step forward for me in my software engineering journey. I had no prior exposure to any sort of coding so this project help set the foundation for my future of programming.
 
+I like to look back on this project to see how far I have come and it is a reminder that there is always so much more to learn. I remember that at the time, I was satisfied with my hard work and although it is not a bad project, I have learned so much since that time. I think that this project holds a lot of meaning for me and symbolizes my first steps with programming. 
+
 Here is some code that showcases the functionality of the clock: 
 ```cpp
 if(h == 0){
