@@ -10,6 +10,7 @@ labels:
   - Coding Standards
 ---
 
+<img width="250px" class="rounded float-start pe-4" src="../img/cotton/formatting_meme.png">
 
 ## Why are Standards Even Important?
 
