@@ -10,7 +10,7 @@ labels:
   - Front-End Website Development
 ---
 
-<img width="250px" class="rounded float-start pe-4" src="../img/cotton/formatting_meme.png">
+<img width="250px" class="rounded float-start pe-4" src="../img/difficulty/Top-CSS-Frameworks.jpg">
 
 ## Why do we automate things?
 
