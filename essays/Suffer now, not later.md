@@ -10,7 +10,7 @@ labels:
   - Front-End Website Development
 ---
 
-<img width="250px" class="container" src="../img/difficulty/Top-CSS-Frameworks.jpg">
+<img width="250px" class="rounded mx-auto" src="../img/difficulty/Top-CSS-Frameworks.jpg">
 
 ## Why do we automate things?
 
