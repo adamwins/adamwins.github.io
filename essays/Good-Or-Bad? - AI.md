@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Good or Bad? : AI"
+title: "Good or Bad? - AI"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-03
 published: true
@@ -103,3 +103,5 @@ AI continues to improve and will remain a valuable resource for software enginee
 ### VIII. Conclusion:
 
 In conclusion, AI is a valuable resource in the field of software engineering. However, it's crucial to remember that AI is a tool and not a substitute for understanding. Over-reliance on AI can hinder learning, so it's important to strike a balance and ensure that learning is prioritized over expedience. Limiting the use of AI in education may ultimately contribute to deeper learning and skill development among students.
+
+Note- ChatGpt was used to correct any grammar and punctuation mistakes as well as rewrite some sentences for clarity
