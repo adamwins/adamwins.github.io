@@ -4,7 +4,7 @@ type: essay
 title: "Unleashing the Power of JavaScript"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
-published: true
+published: false
 labels:
   - JavaScript
   - Software Engineering

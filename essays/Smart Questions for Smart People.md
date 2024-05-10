@@ -9,6 +9,7 @@ labels:
   - Social Engineering
 ---
 
+<img width="400px" class="rounded mx-auto" src="../img/cotton/Dumb-Questions.jpg">
 
 ## What Even is a Smart Question?
 

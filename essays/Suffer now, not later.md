@@ -4,7 +4,7 @@ type: essay
 title: "Suffer now, not later"
 # All dates must be YYYY-MM-DD format!
 date: 2024-2-21
-published: true
+published: false
 labels:
   - Software Engineering
   - Front-End Website Development
