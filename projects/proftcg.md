@@ -30,3 +30,5 @@ This is what the main page looks like, and I also added animations to our home p
 Overall, I thought our group did a good job navigating through the challenges of working in a team, whether it be fixing merge conflicts, or solving problems between differing views between group members. This project was a good opportunity to practice issue driven project management, and it made it very clear what are responsibilities were for the project. 
 
 For future projects, I now know to start early on issues because even though you think something may be simple, errors happen and it may take way longer than expected. We experienced this with our navbar component, which took weeks to develop. Although it seemed simple, there were errors with redirecting and misunderstanding what other group members were asking for. 
+
+Here is a link to the [ProfTCG] page (https://academic-flow.github.io/) 
