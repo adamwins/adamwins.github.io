@@ -21,9 +21,9 @@ For this project, I was mainly responsible for front end development, as well as
 
 Here are the main pages I contributed to: 
 
-<img width="350px" class="rounded float-start pe-4" src="../img/cotton/Pack_opening.png">
+<img width="350px" class="rounded float-start" src="../img/cotton/Pack_opening.png">
 
-<img width="350px" class="rounded float-start pe-4" src="../img/cotton/accept-deny.png">
+<img width="350px" class="rounded float-start" src="../img/cotton/accept-deny.png">
 
 This is what the main page looks like, and I also added animations to our home page. I was responsible for styling the trading component as well as the rest of the page. Beyond just this page, I also created our organization page, deployed our website, fixed our eslint errors, fixed minor redirect errors, and helped out in other errors if necessary. 
 
