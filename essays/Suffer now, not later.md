@@ -18,7 +18,7 @@ When I think about UI frameworks, I think of Bootstrap, React, and Angular. Thes
 
 ##  Why are these frameworks worth the effort?
 
-Well, these frameworks exist for a reason. They include icons, built-in classes, and open-source software to help improve visual appearance. React is also useful for making reusable code for any other project compatible with React. Like I said earlier, spending the time to create something that can be used later makes things more efficient and ends up saving you time. In the case of Bootstrap, taking the time to learn the framework allows you to create better-looking websites using built-in icons, classes, and makes automatically adapting screen size to a user's display possible.
+Well, these frameworks exist for a reason. They include icons, built-in classes, and open-source software to help improve visual appearance. React is also useful for making reusable code for any other project compatible with React. React's structure based on components encourages reuse of code, supporting a modular manner for development. This makes it simpler to code and maintain, as well as easier for expanding. React has many free libraries and tools, which help to improve its abilities and give developers confidence in managing various difficulties. Like I said earlier, spending the time to create something that can be used later makes things more efficient and ends up saving you time. In the case of Bootstrap, taking the time to learn the framework allows you to create better-looking websites using built-in icons, classes, and makes automatically adapting screen size to a user's display possible. 
 
 ## Putting it all together
 
