@@ -15,12 +15,13 @@
   },
   "interests": [
     { "name": "Cybersecurity" },
-    { "name": "Software Engineering" }
+    { "name": "Software Engineering" },
+    { "name":  "Algorithm design and analysis" }
   ],
   "skills": [
     {
-      "name": "Languages",
-      "keywords": [ "Python", "Java", "Javascript", "HTML", "CSS" ]
+      "name": "Languages and Frameworks",
+      "keywords": [ "Python", "Java", "Javascript", "HTML", "CSS" , "React" , "Bootstrap" , "Meteor" , "TestCafe"]
     },
     {
       "name": "Toolsets/OS",
